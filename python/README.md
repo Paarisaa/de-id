@@ -10,7 +10,9 @@ Perl and Python code for de-identifying electronic medical records
 1- Change to the python directory
 
 2- run ```python deid_Age_Parisa.py id.text age.phi```
+
 3- run ```python deid_Location_Parisa.py id.text location.phi```
+
 4- run ```python deid_Date_Parisa.py id.text date.phi```
 
 In which:
@@ -21,7 +23,9 @@ In which:
 1- change to the python directory
 
 2- run ```python stats.py id.deid id-phi.phrase age.phi ```
+
 3- run ```python stats.py id.deid id-phi.phrase location.phi ```
+
 4- run ```python stats.py id.deid id-phi.phrase date.phi ```
 
 In which:
